@@ -290,18 +290,17 @@
 
 ### router
 
-<ul>
-<li class="task-list-item"><input type="checkbox" disabled="" checked=""> cve-2018-18708 溢出</li>
-<li class="task-list-item"><input type="checkbox" disabled="" checked=""> sapido RB-1732 RCE</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> TP-LINK Smart Home Router RCE</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> D-LINK DIR-815 溢出</li>
-<li class="task-list-item"><input type="checkbox" disabled=""> Netgear Nighthawk R8300 upnpd PreAuth RCE 溢出</li>
-<li class="task-list-item"><input type="checkbox" disabled="">D-LINK DIR-505 越界</li>
-<li class="task-list-item"><input type="checkbox" disabled="">Linksys WRT54G 溢出</li>
-<li class="task-list-item"><input type="checkbox" disabled="">D-Link DIR-600M web漏洞</li>
-<li class="task-list-item"><input type="checkbox" disabled="">D-LINK DIR-605L </li>
-<li class="task-list-item"><input type="checkbox" disabled="">磊科全系列后门</li>
-</ul>
+
+- [x] cve-2018-18708 溢出
+- [x] sapido RB-1732 RCE
+- [ ] TP-LINK Smart Home Router RCE
+- [ ] D-LINK DIR-815 溢出
+- [ ] Netgear Nighthawk R8300 upnpd PreAuth RCE 溢出
+- [ ] D-LINK DIR-505 越界
+- [ ] D-Link DIR-600M web漏洞
+- [ ] D-LINK DIR-605L 
+- [ ] 磊科全系列后门
+
 
 ### Smart door lock
 
@@ -316,9 +315,9 @@
 ### Internet of Vehicles
 [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security)
 ### Other devices
-<ul>
-<li class="task-list-item"><input type="checkbox" disabled="" checked="">U-Boot NFS RCE Vulnerabilities (CVE-2019-14192)</li>
-</ul>
+
+- [x] U-Boot NFS RCE Vulnerabilities (CVE-2019-14192)
+
 
 > <em><font style="background: linear-gradient( to right, #ff1616, #ff7716, #ffdc16, #36c945, #10a5ce, #0f0096, #a51eff, #ff1616);">Vulnerability type</font></em>
 
